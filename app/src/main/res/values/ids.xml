@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Menu IDs -->
+    <item name="Pin" type="id" />
+    <item name="Share" type="id" />
+    <item name="LabelsAction" type="id" />
+    <item name="ChangeColor" type="id" />
+    <item name="Copy" type="id" />
+    <item name="Archive" type="id" />
+    <item name="Unarchive" type="id" />
+    <item name="DeleteForever" type="id" />
+    <item name="Export" type="id" />
+    <item name="ExportPDF" type="id" />
+    <item name="ExportTXT" type="id" />
+    <item name="ExportJSON" type="id" />
+    <item name="ExportHTML" type="id" />
+    <item name="Restore" type="id" />
+</resources>

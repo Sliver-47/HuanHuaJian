@@ -1,0 +1,194 @@
+<resources>
+    <string name="app_name" translatable="false">浣花笺</string>
+    <string name="app_name_with_slogan" translatable="false">浣花笺 一纸轻笺，万物可记</string>
+
+    <!-- Fragment Titles -->
+    <string name="notes">笔记</string>
+    <string name="labels">标签</string>
+    <string name="deleted">已删除</string>
+    <string name="archived">已归档</string>
+    <string name="settings">设置</string>
+
+    <!-- Menu Options -->
+    <string name="share">分享</string>
+    <string name="filter">筛选</string>
+    <string name="search">搜索</string>
+    <string name="delete">删除</string>
+    <string name="restore">恢复</string>
+    <string name="archive">归档</string>
+    <string name="unarchive">取消归档</string>
+    <string name="add_images">图片</string>
+    <string name="delete_all">全部删除</string>
+    <string name="record_audio">录音</string>
+    <string name="set_reminder">提醒</string>
+    <string name="change_color">更改颜色</string>
+    <string name="make_a_copy">复制</string>
+    <string name="delete_forever">永久删除</string>
+
+    <!-- Pinning -->
+    <string name="pin">置顶</string>
+    <string name="unpin">取消置顶</string>
+    <string name="pinned">已置顶</string>
+    <string name="others">其他</string>
+
+    <!-- Chooser dialog hints -->
+    <string name="view_note">查看笔记</string>
+
+    <!-- Dialogs -->
+    <string name="save">保存</string>
+    <string name="edit">编辑</string>
+    <string name="cancel">取消</string>
+    <string name="continue_">继续</string>
+    <string name="open_link">打开链接</string>
+    <string name="make_list">创建清单</string>
+    <string name="take_note">创建笔记</string>
+    <string name="add_label">添加标签</string>
+    <string name="export">导出</string>
+    <string name="view_file">查看文件</string>
+    <string name="save_to_device">保存到设备</string>
+    <string name="edit_label">编辑标签</string>
+    <string name="label_exists">标签已存在</string>
+    <string name="delete_label">删除标签？</string>
+    <string name="create_new">还没有标签。创建一个？</string>
+    <string name="delete_all_notes">删除所有笔记？</string>
+    <string name="delete_selected_notes">删除选中的笔记？</string>
+    <string name="delete_note_forever">永久删除笔记？</string>
+    <string name="your_notes_associated">与该标签关联的笔记不会被删除</string>
+
+    <!-- Lists and Notes -->
+    <string name="note">笔记</string>
+    <string name="item">项目</string>
+    <string name="date">日期</string>
+    <string name="title">标题</string>
+    <string name="add_item">添加项目</string>
+    <string name="audio_recordings">录音</string>
+    <string name="drag_handle">拖动手柄</string>
+    <string name="bold">粗体</string>
+    <string name="link">链接</string>
+    <string name="italic">斜体</string>
+    <string name="strikethrough">删除线</string>
+    <string name="clear_formatting">清除格式</string>
+    <string name="monospace">等宽字体</string>
+
+    <!-- Miscellaneous -->
+    <string name="saved_to_device">已保存到设备</string>
+    <string name="saved_to_notally">已保存到浣花笺</string>
+    <string name="empty_note">空白笔记</string>
+    <string name="empty_list">空白清单</string>
+    <string name="select_labels">选择标签</string>
+
+    <!-- Messages -->
+    <string name="cant_open_link">无法打开链接</string>
+    <string name="something_went_wrong">出现问题，请重试。</string>
+    <string name="install_an_email">请安装邮件应用以发送反馈</string>
+    <string name="install_a_browser">请安装浏览器以打开此链接</string>
+    <string name="cant_find_note">找不到笔记，可能已被删除</string>
+
+    <!-- Settings Page -->
+    <string name="appearance">外观</string>
+
+    <string name="view">视图</string>
+    <string name="list">列表</string>
+    <string name="grid">网格</string>
+
+    <string name="theme">主题</string>
+    <string name="dark">深色</string>
+    <string name="light">浅色</string>
+    <string name="follow_system">跟随系统</string>
+
+    <string name="date_format">日期格式</string>
+    <string name="none">无</string>
+
+    <string name="text_size">文字大小</string>
+    <string name="small">小</string>
+    <string name="medium">中</string>
+    <string name="large">大</string>
+
+    <string name="content_density">内容密度</string>
+    <string name="max_items_to_display">清单中显示的最大项目数</string>
+    <string name="max_lines_to_display">笔记中显示的最大行数</string>
+    <string name="max_lines_to_display_title">标题中显示的最大行数</string>
+
+    <!-- Backup -->
+    <string name="backup">备份</string>
+    <string name="auto_backup">自动备份</string>
+    <string name="tap_to_set_up">点击设置</string>
+    <string name="notes_will_be">笔记将每天备份到手机的内部存储。\n\n如果启用了省电模式，此功能可能无法正常工作</string>
+    <string name="choose_folder">选择文件夹</string>
+    <string name="disable_auto_backup">禁用自动备份</string>
+    <string name="choose_another_folder">选择其他文件夹</string>
+    <string name="cant_find_folder">找不到文件夹，可能已被移动或删除</string>
+    <string name="invalid_backup">无效的备份</string>
+    <string name="imported_backup">已导入备份</string>
+    <string name="exporting_backup">正在导出备份</string>
+    <string name="importing_backup">正在导入备份</string>
+    <string name="calculating">计算中…</string>
+
+    <string name="export_backup">导出备份</string>
+    <string name="import_backup">导入备份</string>
+
+    <string name="about">关于</string>
+    <string name="libraries">库</string>
+    <string name="rate">给应用评分</string>
+    <string name="send_feedback">发送反馈</string>
+
+    <string name="github" translatable="false">GitHub</string>
+
+    <!-- Widget -->
+    <string name="single_note_or_list">单个笔记或清单</string>
+    <string name="select_note">选择笔记</string>
+
+    <!-- Images -->
+    <string name="count" translatable="false">%1$d / %2$d</string>
+    <string name="adding_images">正在添加图片</string>
+    <string name="deleting_images">正在删除图片</string>
+    <string name="invalid_image">无效的图片</string>
+    <string name="error_while_renaming_image">重命名图片时出错</string>
+    <string name="image_format_not_supported">不支持的图片格式</string>
+    <string name="delete_image_forever">永久删除图片？</string>
+    <string name="cant_load_image">无法加载图片，可能已被移动或删除</string>
+    <string name="unknown_name">未知名称</string>
+    <string name="unknown_error">未知错误</string>
+    <string name="insert_an_sd_card_images">请插入SD卡以添加图片</string>
+
+    <plurals name="cant_add_images">
+        <item quantity="one">无法添加 %d 张图片</item>
+        <item quantity="other">无法添加 %d 张图片</item>
+    </plurals>
+
+    <!-- Audio -->
+    <string name="play">播放</string>
+    <string name="stop">停止</string>
+    <string name="start">开始</string>
+    <string name="pause">暂停</string>
+    <string name="resume">继续</string>
+    <string name="paused">已暂停</string>
+    <string name="recording">正在录音…</string>
+    <string name="ready_to_record">准备录音</string>
+    <string name="discard">放弃</string>
+    <string name="save_recording">保存录音？</string>
+    <string name="delete_audio_recording_forever">永久删除录音？</string>
+    <string name="tap_for_more_options">点击查看更多选项</string>
+    <string name="to_record_audio">要录制音频，请允许浣花笺访问您的麦克风。点击设置 > 权限并开启麦克风权限</string>
+    <string name="please_grant_notally_audio">请允许浣花笺录制音频。您的录音将仅保存在本地设备上</string>
+    <string name="insert_an_sd_card_audio">请插入SD卡以录制音频</string>
+    <string name="something_went_wrong_audio">出现问题。音频录音可能已被移动或删除。\n\n错误 : (%1$d, %2$d)</string>
+
+    <!-- Reminder -->
+    <string name="time">时间</string>
+    <string name="select_frequency">选择频率</string>
+    <string name="does_not_repeat">不重复</string>
+    <string name="once">单次</string>
+    <string name="daily">每日</string>
+    <string name="weekday">工作日</string>
+    <string name="weekly">每周</string>
+    <string name="monthly">每月</string>
+    <string name="yearly">每年</string>
+    <string name="repeats_daily">%1$s, 每日重复</string>
+    <string name="repeats_weekday">%1$s, 工作日重复</string>
+    <string name="repeats_weekly">%1$s, 每周重复</string>
+    <string name="repeats_monthly">%1$s, 每月重复</string>
+    <string name="repeats_yearly">%1$s, 每年重复</string>
+    <string name="please_grant_notally_notification">请授予浣花笺发送通知的权限</string>
+    <string name="please_grant_notally_alarm">请授予浣花笺设置闹钟的权限</string>
+</resources>
