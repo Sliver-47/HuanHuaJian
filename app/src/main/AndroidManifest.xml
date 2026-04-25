@@ -20,9 +20,9 @@
         android:appCategory="productivity"
         android:dataExtractionRules="@xml/data_rules"
         android:fullBackupContent="@xml/backup_content"
-        android:icon="@mipmap/mymemo"
+        android:icon="@mipmap/huanhuajian"
         android:label="@string/app_name"
-        android:roundIcon="@mipmap/mymemo_round"
+        android:roundIcon="@mipmap/huanhuajian_round"
         android:theme="@style/AppTheme">
 
         <provider
