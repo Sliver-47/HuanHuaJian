@@ -8,8 +8,8 @@
 
         <intent
             android:action="android.intent.action.VIEW"
-            android:targetClass="com\.mymemo\.app.activities.TakeNote"
-            android:targetPackage="com\.mymemo\.app" />
+            android:targetClass="com.mymemo.app.activities.TakeNote"
+            android:targetPackage="com.mymemo.app" />
 
     </shortcut>
 
@@ -20,8 +20,8 @@
 
         <intent
             android:action="android.intent.action.VIEW"
-            android:targetClass="com\.mymemo\.app.activities.MakeList"
-            android:targetPackage="com\.mymemo\.app" />
+            android:targetClass="com.mymemo.app.activities.MakeList"
+            android:targetPackage="com.mymemo.app" />
 
     </shortcut>
 

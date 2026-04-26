@@ -1,3 +1,16 @@
+# Gradle wrapper distribution
+gradle/wrapper/gradle-8.13-all.zip
+
+# Build outputs
+*.apk
+
+# Fastlane screenshots
+fastlane/metadata/android/en-US/images/
+
+# Room schemas
+app/schemas/
+
+# --- 原有标准规则 ---
 *.iml
 .gradle
 /local.properties
