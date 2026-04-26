@@ -2,6 +2,13 @@
 
 一款功能丰富的 Android 备忘录应用，支持文本笔记、待办清单、音频记录、图片插入、标签管理和提醒功能。
 
+## 应用预览
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ed5b1937-63f3-40f9-b875-db1f1ffa887d" width="280" />
+  <img src="https://github.com/user-attachments/assets/346eaee3-3b92-4058-b6e1-2a41f3d18ed4" width="280" />
+</p>
+
 ## 功能特性
 
 - **多种笔记类型**: 支持普通文本笔记和待办清单
@@ -20,7 +27,7 @@
 - **语言**: Kotlin
 - **架构**: MVVM
 - **数据库**: Room (SQLite)
-- **依赖注入**: 无（使用原生 ViewModel）
+- **依赖注入**: 无（手动管理依赖）
 - **异步处理**: Kotlin Coroutines
 - **后台任务**: WorkManager
 - **图片加载**: Glide
@@ -64,9 +71,10 @@ gradlew assembleRelease
 ./gradlew assembleRelease
 ```
 
-## 发布版本
+## 下载
 
-Release APK 位于: `app/release/app-release.apk`
+- [GitHub Release 最新版](https://github.com/Sliver-47/HuanHuaJian/releases/latest) — 直接下载 APK 安装
+- 或在 [Releases 页面](https://github.com/Sliver-47/HuanHuaJian/releases) 查看历史版本
 
 ## 开源协议
 
@@ -78,5 +86,3 @@ Release APK 位于: `app/release/app-release.apk`
 - 项目地址: https://github.com/Sliver-47/HuanHuaJian
 
 ---
-
-*项目整理时间: 2026-04-25*
