@@ -4,10 +4,19 @@
 
 ## 应用预览
 
+<details>
+<summary>点击展开查看截图</summary>
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ed5b1937-63f3-40f9-b875-db1f1ffa887d" width="280" />
-  <img src="https://github.com/user-attachments/assets/346eaee3-3b92-4058-b6e1-2a41f3d18ed4" width="280" />
+  <a href="https://github.com/user-attachments/assets/ed5b1937-63f3-40f9-b875-db1f1ffa887d" target="_blank">
+    <img src="https://github.com/user-attachments/assets/ed5b1937-63f3-40f9-b875-db1f1ffa887d" width="280" />
+  </a>
+  <a href="https://github.com/user-attachments/assets/346eaee3-3b92-4058-b6e1-2a41f3d18ed4" target="_blank">
+    <img src="https://github.com/user-attachments/assets/346eaee3-3b92-4058-b6e1-2a41f3d18ed4" width="280" />
+  </a>
 </p>
+
+</details>
 
 ## 功能特性
 
